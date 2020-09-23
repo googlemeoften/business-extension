@@ -192,19 +192,6 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
-        <repository>
-            <id>meituan-nexus-releases</id>
-            <name>Meituan Nexus Repository</name>
-            <url>http://pixel.sankuai.com/repository/releases</url>
-        </repository>
-        <snapshotRepository>
-            <id>meituan-nexus-snapshots</id>
-            <name>Meituan Nexus Repository</name>
-            <url>http://pixel.sankuai.com/repository/snapshots</url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <build>
         <extensions>
             <extension>
